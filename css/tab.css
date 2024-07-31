@@ -1,0 +1,1741 @@
+@media screen and (min-width:621px) and (max-width:1000px)
+{
+body
+ {
+	/*background-color:#a577f4;*/
+	font-family:Arial;
+ }
+ .main-container
+ {
+	 width:90% ;
+	 height:4890px;
+	 background-color: bisque;
+	 overflow: hidden;
+	margin: 0px auto;
+ }
+ .parallex
+ {
+ 
+		 background-image: url("../images/girl.avif");
+	   
+		 min-height: 650px; 
+	   
+		 background-attachment: fixed;
+		 background-position: center;
+		 background-repeat: no-repeat;
+		 background-size: cover;
+	   
+ }
+ 
+ .header
+ {
+	 width: 800px;
+	 height: 60px;
+	/* background-color: rgb(109, 108, 108);*/
+	 top: 30px;
+	 left: 250px;
+	 position: relative;
+	 
+ 
+ }
+ .directary
+ {
+	 font-size: 25px;
+	 color: white;
+	 font-family: serif;
+	 text-transform: uppercase;
+	 font-weight: bolder;
+	 top: 5px;
+	 left:-190px;
+	 position: relative;
+	
+	 
+ }
+ nav ul
+ {
+	 
+	 text-transform:capitalize;
+	 margin-top:-13px;
+	 margin-left:260px ;
+ }
+ nav li
+ {
+	 list-style:circle;
+	 
+	 color:#f3ecec;
+ }
+ 
+ nav a
+ {
+	 color:#f9f4f4;
+	 text-decoration:none;
+ }
+ nav a:hover
+ {
+	 color:#220ff7;
+ }
+ nav li.log
+ {
+	 margin-left:0px;
+ }
+ .reg
+ {
+ width:100px ;
+ height:4cqmax ;
+ background-color: #675bf1;
+ margin-left:290px ;
+ border-radius:10px ;
+ -webkit-border-radius:10px ;
+ -moz-border-radius:10px ;
+ -ms-border-radius:10px ;
+ -o-border-radius:10px ;
+ }
+ .register
+ {
+	 font-size: 20px;
+	 text-transform:capitalize ;
+	 color: white;
+	 top:5px;
+	 position: relative;
+	 margin-left: 20px;
+ }
+ .welcome
+ {
+	 font-size:30px ;
+	 text-transform: capitalize;
+	 color:white ;
+	 bottom:50px ;
+	right: 190px;
+	 position: relative;
+ 
+ }
+ .secondline
+ {
+	 font-size:20px ;
+	 text-transform: capitalize;
+	 color:white ;
+	 bottom:50px ;
+	 right:200px;
+	 position: relative;
+ }
+ .location
+ {
+ width: 650px;
+ height: 260px;
+ background-color: rgb(228, 222, 222);
+ bottom:20px ;
+ right:190px ;
+ position: relative;
+ }
+ .look
+ {
+	 width:630px ;
+	 height:40px;
+	 background-color:white ;
+	top:10px ;
+	left:10px ;
+	position: relative;
+ }
+ .whatfor
+ {
+	 font-size:15px ;
+	 color:rgb(78, 76, 76);
+	 text-transform:capitalize ; 
+	 top: 10px;
+	 left: 10px;
+ position: relative;    
+ }
+ .locat
+ {
+	 width:630px ;
+	 height:40px;
+	 background-color:white ;
+	 top:30px ;
+	 left:10px ;
+	position: relative;
+ }
+ .place
+ {
+	 font-size:15px ;
+	 color:rgb(102, 98, 98);
+	 text-transform:capitalize ; 
+	 top: 10px;
+	 left: 10px;
+ position: relative;    
+ }
+ .all 
+ {
+	 width:630px ;
+	 height:40px;
+	 background-color:white ;
+	 
+	 top:50px ;
+	 left:10px ;
+	position: relative;
+ }
+ .cat 
+ {
+	 font-size:15px ;
+	 color:rgb(114, 110, 110);
+	 text-transform:capitalize ; 
+	 top: 10px;
+	 left: 10px;
+ position: relative;    
+ }
+ .blue 
+ {
+	 width:630px ;
+	 height:40px;
+	 background-color:rgb(68, 74, 240) ;
+	 top:70px ;
+	 left:10px ;
+	position: relative;
+ }
+ .sea 
+ {
+	 font-size:25px ;
+	 color:rgb(252, 249, 249);
+	 text-transform:capitalize ; 
+	 top:5px;
+	 left: 45px;
+ position: relative;    
+ }
+ .trend
+ {
+	/* width: 600px;
+ height: 80px;
+ background-color: rgb(228, 222, 222);*/
+  right:230px;
+ position: relative;
+ }
+ .search
+ {
+	font-size: 20px;
+	color: white;
+	text-transform: capitalize; 
+	top: 0px;
+	left: 40px;
+	position: relative;
+ }
+ .ibox
+ {
+	 width:80px ;
+	 height:20px;
+	 border-radius: 10px;
+	 /*background-color:rgb(219, 219, 219) ;*/
+	 border:2px solid rgb(255, 255, 255) ;
+   
+	 top:10px ;
+	 left: 46px;
+	 position: relative;
+ }
+ 
+ .phone
+ {
+	 font-family: Arial, Helvetica, sans-serif;
+	 color:rgb(255, 255, 255) ;
+	 text-transform: lowercase;
+	 margin-top: 0px;
+	 margin-left:20px ;
+ }
+ .carbox
+ {
+	width:80px ;
+	height:20px;
+	 border-radius: 10px;
+	 /*background-color:rgb(219, 219, 219) ;*/
+	 border:2px solid rgb(255, 255, 255) ;
+   
+	 bottom:13px ;
+	 left: 134px;
+	 position: relative;
+ }
+ .car
+ {
+	 font-family: Arial, Helvetica, sans-serif;
+	 color:rgb(255, 255, 255) ;
+	 text-transform: lowercase;
+	 margin-top: 0px;
+	 margin-left:20px ;
+ }
+ .flowbox
+ {
+	width:80px ;
+	height:20px;
+	 border-radius: 10px;
+	 /*background-color:rgb(219, 219, 219) ;*/
+	 border:2px solid rgb(255, 255, 255) ;
+   
+	
+	 bottom:37px ;
+	 left: 220px;
+	 position: relative;
+ }
+ .flower
+ {
+	 font-family: Arial, Helvetica, sans-serif;
+	 color:rgb(255, 255, 255) ;
+	 text-transform: lowercase;
+	 margin-top: 0px;
+	 margin-left:20px ;
+ }
+ .howbox
+ {
+	width:80px ;
+	height:20px;
+	 border-radius: 10px;
+	 /*background-color:rgb(219, 219, 219) ;*/
+	 border:2px solid rgb(255, 255, 255) ;
+   
+	 bottom:60px ;
+	 left: 310px;
+	 position: relative;
+ }
+ .house
+ {
+	 font-family: Arial, Helvetica, sans-serif;
+	 color:rgb(255, 255, 255) ;
+	 text-transform: lowercase;
+	 margin-top: 0px;
+	 margin-left:20px ;
+ }
+
+
+ .firstbox
+{
+    width: 100%;
+    height:500px;
+    background-color: rgb(255, 255, 255);
+}
+.featured
+{
+    font-size:22px ;
+    color:black;
+    text-transform: capitalize;
+    top:40PX ;
+    left:70px ;
+    position: relative;
+}
+.boxfirst
+{
+    width:240px;
+    height: 300px;
+    background-color:white ;
+    top:50px;
+    left:70px;
+    position: relative;
+}
+.top
+{
+    width:230px ;
+    height: 150px;
+    background-color: gray;
+}
+.top img
+{
+    width: 100%;
+    height: 100%;
+}
+.bottom
+{
+    width:100px ;
+    height: 30px;
+    background-color:rgb(167, 164, 164) ;
+    border-radius: 10px;
+    top: 10px;
+    left: 10px;
+    position: relative;
+}
+.candv
+{
+    font-size:13px ;
+    text-transform:capitalize ;
+    color: white;
+    top:8px;
+    left: 10px;
+    position: relative;
+}
+.carblack
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-size:15px ;
+    top: 20px;
+    left: 20px;
+    position: relative;
+}
+.don
+{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        color:rgb(56, 55, 55);
+        font-size:15px ;
+        top: 30px;
+        left: 20px;
+        position: relative;
+    
+}
+.rating
+  {
+    
+    top: 30px;
+        right:20px;
+        position: relative;
+  }
+  .rating ul li
+  {
+    font-size: 14px;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+    color: black;
+    
+  }
+  .fun
+  {
+    width: 20px;
+    height: 20px;
+  }
+
+
+
+.boxsecond
+{
+    width:240px;
+    height: 300px;
+    background-color:white ;
+    bottom:250px;
+    left:320px;
+    position: relative;
+}
+.topp
+{
+    width:250px;
+    height: 150px;
+    background-color: gray;
+}
+.topp img
+{
+    width: 100%;
+    height: 100%;
+}
+.bottomm
+{
+    width:100px ;
+    height: 30px;
+    background-color:rgb(167, 164, 164) ;
+    border-radius: 10px;
+    top: 10px;
+    left: 10px;
+    position: relative;
+}
+.elect
+{
+    font-size:13px ;
+    text-transform:capitalize ;
+    color: white;
+    top:8px;
+    left: 10px;
+    position: relative;
+}
+.iphonex
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-size:15px ;
+    top: 20px;
+    left: 20px;
+    position: relative;
+}
+.donn
+{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        color:rgb(56, 55, 55);
+        font-size:15px ;
+        top: 30px;
+        left: 20px;
+        position: relative;
+    
+}
+.rating
+  {
+    
+    top: 30px;
+        right:20px;
+        position: relative;
+  }
+  .rating ul li
+  {
+    font-size: 14px;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+    color: black;
+    
+  }
+  .fun
+  {
+    width: 20px;
+    height: 20px;
+  }
+
+
+
+.boxthird
+{
+    width:220px;
+    height: 300px;
+    background-color:white ;
+    bottom:550px;
+    left:580px;
+    position: relative;
+}
+.topp
+{
+    width:250px ;
+    height: 150px;
+    background-color: gray;
+}
+.toppp img
+{
+    width: 100%;
+    height: 100%;
+}
+.bottommm
+{
+    width:100px ;
+    height: 30px;
+    background-color:rgb(167, 164, 164) ;
+    border-radius: 10px;
+    top: 10px;
+    left: 10px;
+    position: relative;
+}
+.furnit
+{
+    font-size:13px ;
+    text-transform:capitalize ;
+    color: white;
+    top:8px;
+    left: 10px;
+    position: relative;
+}
+.wood
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-size:15px ;
+    top: 20px;
+    left: 20px;
+    position: relative;
+}
+.donnn
+{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        color:rgb(56, 55, 55);
+        font-size:15px ;
+        top: 30px;
+        left: 20px;
+        position: relative;
+    
+}
+.rating
+  {
+    
+    top: 30px;
+        right:20px;
+        position: relative;
+  }
+  .rating ul li
+  {
+    font-size: 14px;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+    color: black;
+    
+  }
+  .fun
+  {
+    width: 20px;
+    height: 20px;
+  }
+
+
+.boxfour
+{
+    width:240px;
+    height: 300px;
+    background-color:white ;
+    bottom:850px;
+    left:940px;
+    position: relative;
+}
+.topppp
+{
+    width:230px ;
+    height: 150px;
+    background-color: gray;
+}
+.topppp img
+{
+    width: 100%;
+    height: 100%;
+}
+.bottommmm
+{
+    width:100px ;
+    height: 30px;
+    background-color:rgb(167, 164, 164) ;
+    border-radius: 10px;
+    top: 10px;
+    left: 10px;
+    position: relative;
+}
+.real
+{
+    font-size:13px ;
+    text-transform:capitalize ;
+    color: white;
+    top:8px;
+    left: 10px;
+    position: relative;
+}
+.own 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-size:15px ;
+    top: 20px;
+    left: 20px;
+    position: relative;
+}
+.donnnn
+{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        color:rgb(56, 55, 55);
+        font-size:15px ;
+        top: 30px;
+        left: 20px;
+        position: relative;
+    
+}
+.rating
+  {
+    
+    top: 30px;
+        right:20px;
+        position: relative;
+  }
+  .rating ul li
+  {
+    font-size: 14px;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+    color: black;
+    
+  }
+  .fun
+  {
+    width: 20px;
+    height: 20px;
+  }
+
+  .secondbox
+  {
+	  width: 100%;
+	  height:650px;
+	  background-color: rgb(236, 242, 242);
+  }
+  .popular
+  {
+	  font-size: 40px;
+	  color: rgb(9, 154, 238);
+	  text-transform: capitalize;
+	  top: 10px;
+	  left: 290px;
+	  position: relative;
+  }
+  .fivewords
+  {
+	  font-size: 20px;
+	  color: rgb(40, 38, 38);
+	  text-transform: capitalize;
+	  top: 10px;
+	  left: 120px;
+	  position: relative;
+  }
+  .smallline
+  {
+	  width: 100px;
+	  height: 3px;
+	  background-color: blue;
+	  top: 16px;
+	  left: 400px;
+	  position: relative;
+  }
+  
+  .polo
+  {
+	  width:180px ;
+	  height: 230px;
+	  /*background-color: aliceblue;*/
+	  top: 80px;
+	  left: 100px;
+	  position: relative;
+  }
+  .polo:hover
+  {
+	  background-color:rgba(2, 2, 237, 0.5);
+  }
+  .lopo
+  {
+	  width:140px;
+	  height: 120px;
+	  left: 30px;
+	  position: relative;
+  }
+  .lopo img
+  {
+	  width: 100%;
+	  height: 100%;
+  }
+  .wordone
+  {
+	  font-size: 20px;
+	  color:grey ;
+	  top:10px;
+	  left: 60px;
+	  position: relative;
+  }
+  .under
+  {
+	  width:80px ;
+	  height: 30px;
+	  background-color:rgb(167, 164, 164) ;
+	  border-radius: 10px;
+	  top: 20px;
+	  left: 60px;
+	  position: relative;
+  }
+  .n
+  {
+	  font-size:20px ;
+	  text-transform:capitalize ;
+	  color: rgb(0, 0, 0);
+	  top:4px;
+	  left: 10px;
+	  position: relative;
+  
+  }
+  
+  
+  .dolo
+  {
+	  width:200px ;
+	  height: 230px;
+	  /*background-color: aliceblue;*/
+	  bottom: 150px;
+	  left: 300px;
+	  position: relative;
+  }
+  .dolo:hover
+  {
+	  background-color:rgba(2, 2, 237, 0.5);
+  }
+  .lodo
+  {
+	  width: 150px;
+	  height: 150px;
+	  margin-left: 30px;
+	  bottom:100px ;
+	  position: relative;
+  }
+  .wordtwo
+  {
+	  font-size: 20px;
+	  color:grey ;
+	 bottom:100px;
+	  left: 60px;
+	  position: relative;
+  }
+  .uunder
+  {
+	  width:70px ;
+	  height: 30px;
+	  background-color:rgb(167, 164, 164) ;
+	  border-radius: 10px;
+	  bottom: 90px;
+	  left: 70px;
+	  position: relative;
+  }
+  .nu
+  {
+	  font-size:20px ;
+	  text-transform:capitalize ;
+	  color: rgb(0, 0, 0);
+	  top:4px;
+	  left: 10px;
+	  position: relative;
+  }
+  
+  
+  .ludo
+  {
+	  width:200px ;
+	  height: 230px;
+	  /*background-color: aliceblue;*/
+	  bottom: 380px;
+	  left: 520px;
+	  position: relative;
+  }
+  .ludo:hover
+  {
+	  background-color:rgba(2, 2, 237, 0.5);
+  }
+  .dolu
+  {
+	  width: 130px;
+	  height: 130px;
+	  margin-left: 40px;
+	  bottom:140px ;
+	  position: relative;
+  }
+  .wordthree
+  {
+	  font-size: 20px;
+	  color:grey ;
+	 bottom:150px;
+	  left: 20px;
+	  position: relative;
+  }
+  .uunderr
+  {
+	  width:70px ;
+	  height: 30px;
+	  background-color:rgb(167, 164, 164) ;
+	  border-radius: 10px;
+	  bottom: 140px;
+	  left: 70px;
+	  position: relative;
+  }
+  .num
+  {
+	  font-size:20px ;
+	  text-transform:capitalize ;
+	  color: rgb(0, 0, 0);
+	  top:4px;
+	  left: 10px;
+	  position: relative;
+  }
+  
+  
+  .dulo
+  {
+	  width:200px ;
+	  height: 230px;
+	  /*background-color: aliceblue;*/
+	  bottom: 380px;
+	  left: 200px;
+	  position: relative;
+  }
+  .dulo:hover
+  {
+	  background-color:rgba(2, 2, 237, 0.5);
+  }
+  .lodu
+  {
+	  width: 150px;
+	  height: 150px;
+	  margin-left: 30px;
+	  bottom:15px ;
+	  position: relative;
+  }
+  .wordfour
+  {
+	  font-size: 20px;
+	  color:grey ;
+	 bottom:15px;
+	  left: 60px;
+	  position: relative;
+  }
+  .uunderrr
+  {
+	  width:70px ;
+	  height: 30px;
+	  background-color:rgb(167, 164, 164) ;
+	  border-radius: 10px;
+	  bottom: 10px;
+	  left: 70px;
+	  position: relative;
+  }
+  .numb
+  {
+	  font-size:20px ;
+	  text-transform:capitalize ;
+	  color: rgb(0, 0, 0);
+	  top:4px;
+	  left: 10px;
+	  position: relative;
+  }
+  
+  
+  .zodo
+  {
+	  width:200px ;
+	  height: 230px;
+	  /*background-color: aliceblue;*/
+	  bottom: 610px;
+	  left: 450px;
+	  position: relative;
+  }
+  .zodo:hover
+  {
+	  background-color:rgba(2, 2, 237, 0.5);
+  }
+  .dozo
+  {
+	  width: 150px;
+	  height: 150px;
+	  margin-left: 30px;
+	  bottom:5px ;
+	  position: relative;
+  }
+  .wordfive
+  {
+	  font-size: 20px;
+	  color:grey ;
+	 bottom:20px;
+	  left: 40px;
+	  position: relative;
+  }
+  .uuunderrr
+  {
+	  width:70px ;
+	  height: 30px;
+	  background-color:rgb(167, 164, 164) ;
+	  border-radius: 10px;
+	  bottom: 10px;
+	  left: 70px;
+	  position: relative;
+  }
+  .numbe
+  {
+	  font-size:20px ;
+	  text-transform:capitalize ;
+	  color: rgb(0, 0, 0);
+	  top:4px;
+	  left: 10px;
+	  position: relative;
+  }
+  
+.thirdbox
+{
+    width: 100%;
+    height: 950px;
+    background-color: rgb(224, 222, 220);
+}
+.today
+{
+    font-size: 30px;
+    color: rgb(49, 49, 193);
+    top:5px ;
+    right:100px ;
+    position: relative;
+}
+.dummy
+{
+    width:150px ;
+    height: 5px;
+    background-color: rgb(23, 23, 154);
+    top:10px ;
+    left:140px ;
+    position: relative;
+}
+.once
+{
+    width:550px;
+    height:200px;
+    background-color: aliceblue;
+    top:30px ;
+    left:100px ;
+    position: relative;
+}
+.dot
+{
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+}
+.dot img
+{
+    width: 200px;
+    height: 200px;
+    bottom:0px;
+    position: relative;
+}
+.boot
+{
+    width:100px ;
+    height: 30px;
+    background-color:rgb(167, 164, 164) ;
+    border-radius: 10px;
+    bottom: 180px;
+    left: 220px;
+    position: relative;
+}
+.reall
+{
+    font-size:13px ;
+    text-transform:capitalize ;
+    color: white;
+    top: 8px;
+    left:10px;
+    position: relative;
+}
+.owwn
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-size:15px ;
+    bottom: 160px;
+    left: 220px;
+    position: relative;
+}
+.doon
+{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        color:rgb(56, 55, 55);
+        font-size:15px ;
+        bottom: 140px;
+    left: 220px;
+        position: relative;
+    
+}
+.rrating
+  {
+    
+    bottom: 130px;
+    left: 180px;
+        position: relative;
+  }
+  .rrating ul li
+  {
+    font-size: 14px;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+    color: black;
+    
+  }
+  .ban
+  {
+    width: 20px;
+    height: 20px;
+  }
+
+
+
+.twice
+  {
+      width:550px;
+      height:200px;
+      background-color: aliceblue;
+      top:50px ;
+      left:100px ;
+      position: relative;
+  } 
+  .dott
+{
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+}
+.dott img
+{
+    width: 200px;
+    height: 200px;
+    bottom:105px;
+    position: relative;
+}
+.booot
+{
+    width:90px ;
+    height: 30px;
+    background-color:rgb(167, 164, 164) ;
+    border-radius: 10px;
+   bottom: 180px;
+    left: 220px;
+    position: relative;
+}
+.realll
+{
+    font-size:13px ;
+    text-transform:capitalize ;
+    color: white;
+    top: 8px;
+    left:10px;
+    position: relative;
+}
+.owwwn
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-size:15px ;
+    bottom: 160px;
+    left: 220px;
+    position: relative;
+}
+.dooon
+{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        color:rgb(56, 55, 55);
+        font-size:15px ;
+        bottom: 140px;
+    left: 220px;
+        position: relative;
+    
+}
+.rrrating
+  {
+    
+    bottom: 130px;
+    left: 180px;
+        position: relative;
+  }
+  .rrrating ul li
+  {
+    font-size: 14px;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+    color: black;
+    
+  }
+  .ban
+  {
+    width: 20px;
+    height: 20px;
+  }
+
+
+  .thrice
+  {
+      width:550px;
+      height:200px;
+      background-color: aliceblue;
+      top:70px ;
+      left:100px ;
+      position: relative;
+  } 
+  .doott
+{
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+}
+.doott img
+{
+    width: 200px;
+    height: 200px;
+    bottom:105px;
+    position: relative;
+}
+.booott
+{
+    width:100px ;
+    height: 30px;
+    background-color:rgb(167, 164, 164) ;
+    border-radius: 10px;
+   bottom: 180px;
+    left: 220px;
+    position: relative;
+}
+.rrealll
+{
+    font-size:13px ;
+    text-transform:capitalize ;
+    color: white;
+    top: 8px;
+    left:10px;
+    position: relative;
+}
+.oowwwn
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-size:15px ;
+    bottom: 160px;
+    left: 220px;
+    position: relative;
+}
+.ddooon
+{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        color:rgb(56, 55, 55);
+        font-size:15px ;
+        bottom: 140px;
+    left: 220px;
+        position: relative;
+    
+}
+.rrratingg
+  {
+    
+    bottom: 130px;
+    left: 180px;
+        position: relative;
+  }
+  .rrratingg ul li
+  {
+    font-size: 14px;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+    color: black;
+    
+  }
+  .ban
+  {
+    width: 20px;
+    height: 20px;
+  }
+
+
+  .fourice
+  {
+      width:550px;
+      height:200px;
+      background-color: aliceblue;
+      top:90px ;
+      left:100px ;
+      position: relative;
+  } 
+  .doottt
+{
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+}
+.doottt img
+{
+    width: 200px;
+    height: 200px;
+    bottom:105px;
+    position: relative;
+}
+.booottt
+{
+    width:90px ;
+    height: 30px;
+    background-color:rgb(167, 164, 164) ;
+    border-radius: 10px;
+   bottom: 180px;
+    left: 220px;
+    position: relative;
+}
+.rrrealll
+{
+    font-size:13px ;
+    text-transform:capitalize ;
+    color: white;
+    top: 8px;
+    left:10px;
+    position: relative;
+}
+.oowwwnn
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-size:15px ;
+    bottom: 160px;
+    left: 220px;
+    position: relative;
+}
+.ddooonn
+{
+    
+        font-family: Arial, Helvetica, sans-serif;
+        color:rgb(56, 55, 55);
+        font-size:15px ;
+        bottom: 140px;
+    left: 220px;
+        position: relative;
+    
+}
+.rrratinggg
+  {
+    
+    bottom: 130px;
+    left: 180px;
+        position: relative;
+  }
+  .rrratinggg ul li
+  {
+    font-size: 14px;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+    color: black;
+    
+  }
+  .ban
+  {
+    width: 20px;
+    height: 20px;
+  }
+
+
+  .fourbox
+  {
+      width: 100%;
+      height: 550px;
+      background-color: rgb(233, 233, 233);
+  }
+  .test
+  {
+      font-size: 40px;
+      color: rgb(49, 49, 193);
+      top:20px ;
+      left:350px ;
+      position: relative;
+  }
+  .duummy
+  {
+      width:90px ;
+      height: 5px;
+      background-color: rgb(23, 23, 154);
+      top:28px ;
+      left:410px ;
+      position: relative;
+  }
+  .center
+  {
+      width: 130px;
+      height: 130px;
+      background-color: bisque;
+      left:390px ;
+      top:48px ;
+      position: relative;
+      border-radius:70px ;
+  }
+  .center img
+  {
+      width:130px;
+      height: 130px;
+      bottom:0px;
+      position: relative;
+      border-radius:70px ;
+      
+  }
+  .name
+  {
+      font-size:20px;
+      color: black;
+      left:400px ;
+      top:58px ;
+      position: relative;
+  
+  }
+  .paragraph
+  {
+      font-family: Arial;
+      font-size:18px;
+      font-weight: bold;
+      color:rgb(131, 126, 126);
+      top:150px;
+      left: 40px;
+      position: relative;
+      text-align: center;
+      line-height:22px ;
+      word-spacing:6px ;
+      
+  }
+  .fivthbox
+{
+    width: 100%;
+    height: 1040px;
+    background-color: rgb(254, 255, 255);
+}
+.blog
+{
+    font-size: 25px;
+    color: rgb(49, 49, 193);
+    top:20px;
+    left: 410px;
+    position: relative;
+}
+.news
+{
+    font-size: 20px;
+    color: rgb(52, 52, 53);
+    top:30px;
+    left: 330px;
+    position: relative; 
+}
+.duummmy
+{
+    width:120px ;
+    height: 5px;
+    background-color: rgb(23, 23, 154);
+    top:40px;
+    left: 400px;
+    position: relative;
+}
+.k
+{
+    width: 300px;
+    height:420px ;
+    /*background-color: azure;*/
+    top:90px;
+    left: 140px;
+    position: relative;
+}
+.ka 
+{
+width:300px ;
+height:200px ;
+/*background-color: bisque;*/
+}
+.ka img
+{
+    width: 100%;
+    height: 100%;
+}
+.many
+{
+    font-size:20px ;
+    color: black;
+    top: 20px;
+    position: relative;
+}
+.by
+{
+    font-size:15px ;
+    color: gray;
+    top: 40px;
+    position: relative;
+}
+.by span
+{
+    color: rgb(6, 118, 229);
+}
+.loremm
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(36, 35, 35);
+    top: 60px;
+    font-size:14px ;
+    position: relative;
+    word-spacing:1px ;
+}
+.kg
+{
+    width: 300px;
+    height:420px ;
+    /*background-color: azure;*/
+    bottom:330px;
+    left:500px;
+    position: relative;
+}
+.kaa
+{
+    width:300px ;
+    height:200px ;
+    /*background-color: bisque; */ 
+}
+.kaa img
+{
+    width: 100%;
+    height: 100%;
+}
+.manyy
+{
+    font-size:20px ;
+    color: black;
+    top: 20px;
+    position: relative;
+}
+.byy
+{
+    font-size:15px ;
+    color: gray;
+    top: 40px;
+    position: relative;
+}
+.byy span
+{
+    color: rgb(6, 118, 229);
+}
+.lloremm
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(36, 35, 35);
+    top: 60px;
+    font-size:14px ;
+    position: relative;
+    word-spacing:1px ;
+}
+.kgf
+{
+    width: 300px;
+    height:420px ;
+   /* background-color: azure;*/
+bottom:300px;
+    left: 160px;
+    position: relative;
+}
+.kaaa
+{
+    width:300px ;
+ height:200px ;
+ /*background-color: bisque;*/
+}
+.kaaa img
+{
+    width: 100%;
+    height: 100%;
+}
+.mmany
+{
+    font-size:20px ;
+    color: black;
+    top: 20px;
+    position: relative;
+}
+.bby
+{
+    font-size:15px ;
+    color: gray;
+    top: 40px;
+    position: relative;
+}
+.bby span
+{
+    color: rgb(6, 118, 229);
+}
+.llloremm
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(36, 35, 35);
+    top: 60px;
+    font-size:14px ;
+    position: relative;
+    word-spacing:1px ;
+}
+
+
+.sixthbox
+{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(0, 102, 255);
+}
+.newbox
+{
+width: 400px;
+height: 100px;
+top: 5px;
+left: 90px;
+position: relative;
+}
+.newslet
+{
+    font-size:15px ;
+   color: aliceblue;
+   top: 42px;
+position: relative;
+}
+.leo 
+{
+    font-size:10px;
+    color: aliceblue;
+    top: 52px;
+    position: relative;
+}
+.emailbox
+{
+width: 400px;
+height: 100px;
+bottom: 110px;
+left:340px;
+position: relative;
+}
+.email
+{
+
+    font-size:15px ;
+   color: aliceblue;
+   top: 55px;
+position: relative;
+}
+hr
+{
+    top:68px;
+    position: relative;
+}
+.subsbox
+{
+   width: 120px;
+   height: 30px;
+   background-color: aliceblue; 
+   bottom: 143px;
+left: 620px;
+position: relative;
+}
+.subs 
+{
+    color: black;
+    font-size: large;
+    top: 5px;
+    left: 20px;
+    position: relative;
+}
+
+
+footer
+{
+    width: 100%;
+    height: 450px;
+    background-color: black;
+}
+.a
+{
+    width: 250px;
+    height: 200px;
+    /*background-color: aquamarine;*/
+    top: 70px;
+    left: 90px;
+    position: relative;
+    float: left;
+}
+.about
+{
+    font-size: larger;
+    color: aliceblue;
+    top: 30px;
+    position: relative;
+}
+.aa
+{
+    font-size: 11px;
+    color: rgb(101, 104, 107);
+    line-height:18px ;
+    top: 70px;
+    position: relative;
+}
+.ab
+{
+    width: 200px;
+    height: 200px;
+    /*background-color: aquamarine;*/
+    top: 70px;
+    left: 340px;
+    position: relative;
+    
+    
+}
+.navig
+{
+    font-size: 15px;
+    color: aliceblue;
+    bottom:170px;
+    position: relative;
+}
+.abb
+{
+    font-size: 10px;
+    color: rgb(165, 168, 172);
+    bottom:150px;
+    position: relative;
+}
+.abc
+{
+    font-size: 10px;
+    color:rgb(165, 168, 172);
+    bottom:140px;
+    position: relative;
+}
+.abd
+{
+    font-size: 10px;
+    color: rgb(165, 168, 172);
+    bottom:130px;
+    position: relative;
+}
+.abe
+{
+    font-size: 10px;
+    color: rgb(165, 168, 172);
+    bottom:120px;
+    position: relative;
+}
+.ac 
+{
+    width: 150px;
+    height: 30px;
+    /*background-color: azure;*/
+    border:0.5px solid white ;
+    bottom:100px ;
+    left:500px;
+    position: relative;
+    float: left;
+}
+.acc
+{
+    font-size: 10px;
+    color: rgb(103, 100, 100);
+    top: 10px;
+    left: 10px;
+    position: relative;
+}
+.ad 
+{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(12, 4, 247);
+    border:0.5px solid white ;
+    bottom:100px ;
+    left:650px;
+    position: relative;
+}
+.add
+{
+    font-size: 10px;
+    color: rgb(253, 251, 251);
+    bottom: 20px;
+    left: 10px;
+    position: relative;
+}
+
+hr
+{
+    top: 70px;
+    position: relative;
+    color: rgb(49, 48, 53);
+}
+.copyRight
+        {
+            font-size:15px ;
+            text-align: left;
+            color: rgb(101, 105, 105);
+           top: 90px;
+           left: 180px;
+           position: relative;
+            
+        }
+        span
+        {
+            color: rgb(4, 32, 239);
+        }
+}
